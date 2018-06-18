@@ -53,7 +53,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.66422420739999999" green="0.66424006219999998" blue="0.66423153879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <state key="normal" title="＋"/>
+                                <state key="normal" title="÷"/>
                                 <connections>
                                     <action selector="inputFormula:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CR1-fX-z9L"/>
                                 </connections>
